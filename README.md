@@ -1,14 +1,9 @@
-## Simple Piano
+## mmanimanasa.github.io
 
-In this a simple piano of 17 keys has been created using Java Script
+### Simple Piano Board
 
-### Different Files
+## Files Description
 
-For this piano to run the sound file should be downloaded locally and should be linked with keyboard keys. 
+The Piano board contains the structure with Respect to the keyboard keys. We have taken keyboardkeys values to design the piano.
 
-This logic was written in the JavaScript file(.js) and the styling is done in HTML and CSS files
-
-### To Run
-
-Download the file and copy the path of the file locally and run that path in any browser.
-
+Piano plays the sound with respect to their key values of the keyboard.
